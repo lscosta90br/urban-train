@@ -11,7 +11,7 @@ SECRET_KEY = env('DJANGO_SECRET_KEY', default='apjfqc9e8r-9eq3r3u49u4399r43-@#%^
 
 APPS_DIR = ROOT_DIR.path("urban-train")
 
-DEBUG = env.bool('DJANGO_DEBUG', False)
+DEBUG = env.bool('DJANGO_DEBUG', True)
 
 ALLOWED_HOSTS = [
     'gastosluxu.com.br',

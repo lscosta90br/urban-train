@@ -11,5 +11,5 @@ django-select2==7.2.0
 django-widget-tweaks==1.4.5
 gunicorn==20.0.4
 pandas==0.25.3
-psycopg2==2.8.4
+psycopg2-binary==2.8.4
 selenium==3.141.0

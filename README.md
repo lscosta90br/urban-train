@@ -4,7 +4,7 @@ Sistema de Gerenciamento de gastos
 
 # Instalação
 Recomenda-se criar uma virtualenv para evitar conflitos de versões das bibliotecas instaladas no seu computador
-> virtualenv .venv
+> python3 -m venv .venv
 
 Para acessar
 - *Windows*:
